@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kev-g\\Music\\vete\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|C:\\Users\\kev-g\\Music\\vete\\vete\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|solutionrelative:vete\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|c:\\users\\kev-g\\music\\vete\\vete\\reporusu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|solutionrelative:vete\\reporusu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|C:\\Users\\kev-g\\Music\\vete\\vete\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|solutionrelative:vete\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|C:\\Users\\kev-g\\Music\\vete\\vete\\reporusu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|solutionrelative:vete\\reporusu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|C:\\Users\\kev-g\\Music\\vete\\vete\\sql\\veterinariasql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|solutionrelative:vete\\sql\\veterinariasql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|C:\\Users\\kev-g\\Music\\vete\\vete\\registro1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|solutionrelative:vete\\registro1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|C:\\Users\\kev-g\\Music\\vete\\vete\\reportcit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|solutionrelative:vete\\reportcit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|C:\\Users\\kev-g\\Music\\vete\\vete\\reportcit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|solutionrelative:vete\\reportcit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|C:\\Users\\kev-g\\Music\\vete\\vete\\estilos\\botones.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|solutionrelative:vete\\estilos\\botones.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|C:\\Users\\kev-g\\Music\\vete\\vete\\mascotas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|solutionrelative:vete\\mascotas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|C:\\Users\\kev-g\\Music\\vete\\vete\\mascotas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3A053D-37A3-4B14-809B-68A8C8CAD098}|vete\\vete.csproj|solutionrelative:vete\\mascotas.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Veterinariasql.sql ",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\vete\\vete\\sql\\Veterinariasql.sql",
+              "RelativeDocumentMoniker": "vete\\sql\\Veterinariasql.sql",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\vete\\vete\\sql\\Veterinariasql.sql",
+              "RelativeToolTip": "vete\\sql\\Veterinariasql.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-04-02T01:49:40.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Registro1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\vete\\vete\\Registro1.aspx.cs",
+              "RelativeDocumentMoniker": "vete\\Registro1.aspx.cs",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\vete\\vete\\Registro1.aspx.cs",
+              "RelativeToolTip": "vete\\Registro1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T01:45:33.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\vete\\vete\\Site1.Master",
+              "RelativeDocumentMoniker": "vete\\Site1.Master",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\vete\\vete\\Site1.Master",
+              "RelativeToolTip": "vete\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T01:30:45.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reporusu.aspx",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\vete\\vete\\Reporusu.aspx",
+              "RelativeDocumentMoniker": "vete\\Reporusu.aspx",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\vete\\vete\\Reporusu.aspx",
+              "RelativeToolTip": "vete\\Reporusu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T01:28:26.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "botones.css",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\vete\\vete\\estilos\\botones.css",
+              "RelativeDocumentMoniker": "vete\\estilos\\botones.css",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\vete\\vete\\estilos\\botones.css",
+              "RelativeToolTip": "vete\\estilos\\botones.css",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-02T01:27:42.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reportcit.aspx",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\vete\\vete\\Reportcit.aspx",
+              "RelativeDocumentMoniker": "vete\\Reportcit.aspx",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\vete\\vete\\Reportcit.aspx",
+              "RelativeToolTip": "vete\\Reportcit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T01:24:27.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reportcit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\vete\\vete\\Reportcit.aspx.cs",
+              "RelativeDocumentMoniker": "vete\\Reportcit.aspx.cs",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\vete\\vete\\Reportcit.aspx.cs",
+              "RelativeToolTip": "vete\\Reportcit.aspx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T01:24:07.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reporusu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\vete\\vete\\Reporusu.aspx.cs",
+              "RelativeDocumentMoniker": "vete\\Reporusu.aspx.cs",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\vete\\vete\\Reporusu.aspx.cs",
+              "RelativeToolTip": "vete\\Reporusu.aspx.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAvwDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T01:22:35.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\vete\\vete\\Web.config",
+              "RelativeDocumentMoniker": "vete\\Web.config",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\vete\\vete\\Web.config",
+              "RelativeToolTip": "vete\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-02T00:51:55.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mascotas.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\vete\\vete\\Mascotas.aspx.cs",
+              "RelativeDocumentMoniker": "vete\\Mascotas.aspx.cs",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\vete\\vete\\Mascotas.aspx.cs",
+              "RelativeToolTip": "vete\\Mascotas.aspx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:49:44.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mascotas.aspx",
+              "DocumentMoniker": "C:\\Users\\kev-g\\Music\\vete\\vete\\Mascotas.aspx",
+              "RelativeDocumentMoniker": "vete\\Mascotas.aspx",
+              "ToolTip": "C:\\Users\\kev-g\\Music\\vete\\vete\\Mascotas.aspx",
+              "RelativeToolTip": "vete\\Mascotas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-02T00:49:00.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

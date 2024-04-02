@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="vete.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="estilos/estilo.css" rel="stylesheet" />
+    <link href="estilos/VETERINARIA.css" rel="stylesheet" />
+    <link href="estilos/CSS%20VETE.css" rel="stylesheet" />
+    <link href="estilos/botones.css" rel="stylesheet" />
+    <title>Veterinaria JNK</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <header>
+                <h2>Veterinaria JNK</h2>
+              <img src ="imagen/JN.png" style="width:100px;height:100px;">
+                
+            </header>
+            <br>
+            <section>
+                <nav>
+                    <ul>
+                        <li><a href="Reportes.aspx">Reportes</a>
+                            <ul>
+                                <li><a href="Reporusu.aspx">Reporte Usuarios</a></li>
+                                <li><a href="Mascotas.aspx">Reporte Mascotas</a></li>
+                                <li><a href="Reporcit.aspx">Reporte Citas</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="Ingresar.aspx">Salir</a></li>
+                    </ul>
+                </nav>
+            </section>
+            <br><br>
+            <footer>
+                <br />
+
+                <p>@Derechos de imagen Veterinaria JNK 2024</p>
+            </footer>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

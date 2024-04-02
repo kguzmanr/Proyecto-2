@@ -1,0 +1,187 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+    text-align: justify;
+}
+
+body {
+    background-color: #afffe4;
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+}
+
+h2 {
+    text-align: center;
+    margin: 20px 0 20px;
+    font-size: 45px;
+    color: #ecf0f1;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'Cherry Swash', cursive;
+}
+
+header {
+    background-color: aquamarine;
+    color: white;
+    padding: 1em;
+    display: flex;
+    flex-basis: 100%;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+    header nav {
+        background-color: rgb(85, 254, 198);
+        padding: 1em;
+        margin: 1.5em;
+        flex-basis: 20;
+        text-align: center;
+    }
+
+        header nav ul {
+            list-style: none;
+        }
+
+            header nav ul a {
+                color: white;
+                padding: 0.5em;
+                text-transform: uppercase;
+                justify-content: space-around;
+            }
+
+                header nav ul a:hover {
+                    background-color: rgb(154, 245, 215);
+                }
+
+            header nav ul li {
+                position: relative;
+                float: left;
+                margin: 0;
+                padding: 0;
+            }
+
+                header nav ul li:hover {
+                    background: rgb(154, 245, 215);
+                }
+
+section nav {
+    margin: 27px auto 0;
+    position: relative;
+    width: 427px;
+    height: 50px;
+    background-color: rgb(85, 254, 198);
+    font-size: 0;
+}
+
+    section nav ul {
+        list-style: none;
+        margin: 1px;
+        padding: 1px;
+        text-align: center;
+    }
+
+        section nav ul a {
+            line-height: 50px;
+            height: 100%;
+            font-size: 15px;
+            display: inline-block;
+            position: relative;
+            z-index: 1;
+            text-decoration: none;
+            text-transform: uppercase;
+            text-align: center;
+            color: white;
+            cursor: pointer;
+            width: 141px;
+        }
+
+        section nav ul li {
+            position: relative;
+            float: left;
+            margin: 0;
+            padding: 0;
+        }
+
+            section nav ul li:hover {
+                background: rgb(154, 245, 215);
+            }
+
+        section nav ul ul {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background: rgb(85, 254, 198);
+            padding: 0;
+        }
+
+            section nav ul ul li {
+                float: none;
+                width: 150px
+            }
+
+            section nav ul ul a {
+                line-height: 120%;
+                padding: 10px 15px;
+            }
+
+        section nav ul li:hover > ul {
+            display: block;
+        }
+
+footer {
+    background-color: aquamarine;
+    color: #FFF;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 0.8em 0 0.8em 0;
+    justify-content: center;
+}
+
+    footer p {
+        text-align: center;
+    }
+
+label {
+    text-align: center;
+    margin: 20px 0 20px;
+    font-size: 25px;
+    color: #ecf0f1;
+    text-shadow: 2px 2px 4px #000000;
+    font-family: 'Cherry Swash', cursive;
+}
+
+fieldset {
+    margin: 27px auto 0;
+    position: relative;
+    width: 25%;
+    padding: 0.5em;
+    text-align: center;
+}
+
+    fieldset legend {
+        font-family: 'Cherry Swash', cursive;
+        font-size: 20px;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+    }
+
+.mascotas fieldset {
+    margin: 27px auto 0;
+    position: relative;
+    width: 50%;
+    padding: 0.5em;
+}
+
+    .mascotas fieldset legend {
+        font-family: 'Cherry Swash', cursive;
+        font-size: 20px;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+    }
